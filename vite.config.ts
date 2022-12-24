@@ -10,7 +10,7 @@ export default defineConfig(() => {
   return {
     plugins: [UnoCSS({
       shortcuts: [
-        { logo: 'i-logos-qwik w-6em h-6em transform transition-800 hover:rotate-180' },
+        { },
       ],
       presets: [
         presetUno(),
